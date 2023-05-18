@@ -11,7 +11,7 @@ const result = mySecondArr.filter(function (val) {
 });
 
 
-function App() {
+function nodeLabF() {
 
   return (
     <div>
@@ -20,6 +20,6 @@ function App() {
   );
 }
 
-export default App;
+export default nodeLabF;
 
 
